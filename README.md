@@ -8,5 +8,8 @@ The size of images while training were fixed to 416x416 to avoid the system from
 The original model was trained for 1700 iterations
 
 
-![alt text](https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/car.jpg)
-Test image1
+![Detection1](https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/Detection2.png)
+
+![Detection2](https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/detection3.png)
+
+![Detection3](https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/Detection1.png)
