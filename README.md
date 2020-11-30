@@ -9,10 +9,10 @@ The size of images while training were fixed to 416x416 to avoid the system from
 The original model was trained for about 2200 iterations
 
 
-<img src="https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/chart.png" width="600" />
+<div style="text-align:center"><img src="https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/chart.png" width="600" /></div>
 
-<img src="https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/Detection2.png" width="600" />
+<div style="text-align:center"><img src="https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/Detection2.png" width="600" /></div>
 
-<img src="https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/detection3.png" width="600" />
+<div style="text-align:center"><img src="https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/detection3.png" width="600" /></div>
 
-<img src="https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/Detection1.png" width="600" />
+<div style="text-align:center"><img src="https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/images/Detection1.png" width="600" /></div>
