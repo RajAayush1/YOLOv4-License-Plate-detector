@@ -6,7 +6,7 @@ The dataset was converted to the YOLOV4 format using the OIDv4 Toolkit.
 
 The model was initially trained on 1500 images and validated using 300 images.
 The size of images while training were fixed to 416x416 to avoid the system from crashing due to resource limitations.
-The original model was trained for about 1700 iterations
+The original model was trained for about 2200 iterations
 
 
 ![Detection1](https://github.com/RajAayush1/YOLOv4-License-Plate-detector/blob/main/chart.png)
